@@ -17,6 +17,7 @@
 | Numero | Requisito | Descriçao | Atores |
 | --- | --- | --- | :---: |
 | RF001 | Arquivo de dados da Atividade 1 | Ler os dados na planilha e exibir um gráfico. | N/A |
+| RF002 | Arquivos de dados da Atividade 2 | Ler os dados dos arquivos fasta e exibir um gráfico comparando a contagem de pares. | N/A |
 
 ## **Especificação dos Requisitos**
 
@@ -24,17 +25,24 @@
 - **Fluxo de execução:** Ler os dados na planilha e exibir um gráfico com titulo e legendas, sendo um gráfico de colunas cinza e de linhas pontilhadas azuis.
 <!-- - **Fluxo alternativo:** Não Existe
 - **Fluxo de exceçao:** Não Existe -->
+## **RF002**
+- **Fluxo de execução:** Ler os dados dos arquivos fasta, validar todos os possíveis pares do vetor ['A', 'T', 'G', 'C'], realizar a contagem de bares em cada um dos arquivos e exibir um gráfico comparando a contagem de pares dos dois arquivos.
+<!-- - **Fluxo alternativo:** Não Existe
+- **Fluxo de exceçao:** Não Existe -->
 
 ## **Pull Requests**
 
 | PR | Link | Data de abertura |
 | --- | --- | --- |
-| 186 | <https://github.com/dock-tech/caas-conciliacao-script/pull/186> | 05/01/2024 |
+| 1 | <https://github.com/Red-of-Pallet/Estudo/pull/1> | 07/06/2024 |
 
 ## **Execução**
 
 Evidências do código:
-> ![Linhas alteradas no notebook2](/dataScience/visualizacao-de-dados-com-python/imgs/figura01.png)
+> ![Montando o gráfico - Atividade 1](/dataScience/visualizacao-de-dados-com-python/imgs/figura01.png)
+> ![Montando pares - Atividade 2](/dataScience/visualizacao-de-dados-com-python/imgs/figura02.png)
+> ![Montando o gráfico - Atividade 2](/dataScience/visualizacao-de-dados-com-python/imgs/figura03.png)
 
 Evidências de teste:
-> ![Resultado - Atividade 1](/dataScience/visualizacao-de-dados-com-python/imgs/figura02.png)
+> ![Resultado - Atividade 1](/dataScience/visualizacao-de-dados-com-python/imgs/figura04.png)
+> ![Resultado - Atividade 2](/dataScience/visualizacao-de-dados-com-python/imgs/figura05.png)
