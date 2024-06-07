@@ -6,11 +6,11 @@
 
 | Data | Versão | Descrição | Autor |
 | --- | --- | --- | --- |
-| 07/06/2024 | 1.0 | Elaboração do documento | geovane.noel |
+| 07/06/2024 | 2.0 | Elaboração do documento | geovane.noel |
 
 ## **Documentos e referência**
 - Referência - https://www.udemy.com/course/visualizacao-de-dados-com-python/
-- Dados da Atividade 1 - data\populacao_brasileira.csv
+- Dados da Atividade 1 - /data/populacao_brasileira.csv
 
 ## **Requisitos Funcionais (Casos de uso)**
 
@@ -25,16 +25,16 @@
 <!-- - **Fluxo alternativo:** Não Existe
 - **Fluxo de exceçao:** Não Existe -->
 
-## **Execução**
-
-Evidências do código:
-> ![Linhas alteradas no notebook2](/docs/2024/Global_24.01.01/ADICIONAR_NOVOS_CAMPOS_NO_OBJETO_VISA_GENERAL/imgs/figura01.png)
-
-Evidências de teste:
-> ![Resultado - Atividade 1](imgs\populacao_brasileira.png)
-
 ## **Pull Requests**
 
 | PR | Link | Data de abertura |
 | --- | --- | --- |
 | 186 | <https://github.com/dock-tech/caas-conciliacao-script/pull/186> | 05/01/2024 |
+
+## **Execução**
+
+Evidências do código:
+> ![Linhas alteradas no notebook2](/dataScience/visualizacao-de-dados-com-python/imgs/figura01.png)
+
+Evidências de teste:
+> ![Resultado - Atividade 1](/dataScience/visualizacao-de-dados-com-python/imgs/figura02.png)
