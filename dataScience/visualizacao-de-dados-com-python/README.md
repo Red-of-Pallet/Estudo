@@ -11,6 +11,8 @@
 ## **Documentos e referência**
 - Referência - https://www.udemy.com/course/visualizacao-de-dados-com-python/
 - Dados da Atividade 1 - /data/populacao_brasileira.csv
+- Dados da Atividade 2 - /data/bacteria.fasta
+- Dados da Atividade 2 - /data/human.fasta
 
 ## **Requisitos Funcionais (Casos de uso)**
 
